@@ -1,0 +1,71 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nature1"
+    tools:context="com.example.museumgogreen.MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/interactiveMapButton"
+            android:layout_width="500dp"
+            android:layout_height="75dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="#0B610B"
+            android:textSize="40sp"
+            android:text="Interactive Map" />
+
+        <Button
+            android:id="@+id/goGreenButton"
+            android:layout_width="500dp"
+            android:layout_height="75dp"
+            android:layout_alignLeft="@+id/interactiveMapButton"
+            android:layout_alignRight="@+id/interactiveMapButton"
+            android:layout_below="@+id/interactiveMapButton"
+            android:layout_marginTop="20dp"
+            android:background="#088A08"
+            android:textSize="40sp"
+            android:text="Go Green!" />
+
+        <Button
+            android:id="@+id/gameButton"
+            android:layout_width="500dp"
+            android:layout_height="75dp"
+            android:layout_alignLeft="@+id/goGreenButton"
+            android:layout_alignRight="@+id/goGreenButton"
+            android:layout_below="@+id/goGreenButton"
+            android:layout_marginTop="20dp"
+            android:background="#04B404"
+            android:textSize="40sp"
+            android:text="Recycle!" />
+
+        <Button
+            android:id="@+id/aboutUsButton"
+            android:layout_width="500dp"
+            android:layout_height="75dp"
+            android:layout_alignLeft="@+id/gameButton"
+            android:layout_alignRight="@+id/gameButton"
+            android:layout_below="@+id/gameButton"
+            android:layout_marginTop="20dp"
+            android:background="#01DF01"
+            android:textSize="40sp"
+            android:text="About Us" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/interactiveMapButton"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/mods_logo" />
+
+    </RelativeLayout>
+
+</FrameLayout>
+

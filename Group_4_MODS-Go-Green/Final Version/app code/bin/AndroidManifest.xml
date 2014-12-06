@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.testkk"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.testkk.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.testkk.AboutUs"
+            android:label="@string/about_title" >
+        </activity>
+        <activity android:name="com.example.testkk.GoGreen" >
+        </activity>
+        <activity
+            android:name="com.example.testkk.InteractiveMap"
+            android:label="@string/title_activity_interactive_map" >
+        </activity>
+        <activity
+            android:name="com.example.testkk.Game"
+            android:label="@string/title_activity_game" >
+        </activity>
+        <activity
+            android:name="com.example.testkk.FunFacts"
+            android:label="@string/title_activity_fun_facts" >
+        </activity>
+        <activity
+            android:name="com.example.testkk.FunFactsContents"
+            android:label="@string/title_activity_fun_facts" >
+        </activity>
+        <activity
+            android:name="com.example.testkk.AboutExhibitContents"
+            android:label="@string/title_activity_about_exhibit" >
+        </activity>
+        <activity
+            android:name="com.example.testkk.InteractiveMapContents"
+            android:label="@string/title_activity_interactive_map" >
+        </activity>
+        <activity
+            android:name="com.example.testkk.Recycle"
+            android:label="@string/title_recycle" >
+        </activity>
+        
+        <activity
+            android:name="com.example.testkk.AboutExhibit"
+            android:label="@string/title_activity_about_exhibit" >
+        </activity>
+    </application>
+
+</manifest>

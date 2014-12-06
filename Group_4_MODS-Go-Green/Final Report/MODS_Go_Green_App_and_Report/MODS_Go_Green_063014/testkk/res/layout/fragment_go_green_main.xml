@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>    
+    
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:background="#73000000" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/harry_the_heap"
+            android:layout_width="280dp"
+            android:layout_height="300dp"
+            android:layout_marginTop="20dp"
+            android:contentDescription="@string/harry_the_heap"
+            android:src="@drawable/harry_the_heap" />
+
+        <TextView
+            android:layout_width="296dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#A60066cc"
+            android:gravity="center"
+            android:text="@string/go_green_main"
+            android:textColor="#FFFFFF"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="490dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/go_green_main_desc"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+        
+        
+        
+        <ImageView
+            android:id="@+id/harry_the_heap"
+            android:layout_width="280dp"
+            android:layout_height="300dp"
+            android:layout_marginTop="20dp"
+            android:contentDescription="@string/harry_the_heap"
+            android:src="@drawable/harry_the_heap_2" />
+
+        <TextView
+            android:layout_width="296dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#A60066cc"
+            android:gravity="center"
+            android:text="@string/harry_the_heap"
+            android:textColor="#FFFFFF"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="490dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/harry_the_heap_desc"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+    
+        
+    
+        
+        <ImageView
+            android:id="@+id/about_exhibit_3"
+            android:layout_width="280dp"
+            android:layout_height="300dp"
+            android:layout_marginTop="20dp"
+            android:contentDescription="@string/about_exhibit_3"
+            android:src="@drawable/about_exhibit_3" />
+
+        <TextView
+            android:layout_width="296dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#A60066cc"
+            android:gravity="center"
+            android:text="@string/about_exhibit_3"
+            android:textColor="#FFFFFF"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="490dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/about_exhibit_3_desc"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    </ScrollView>

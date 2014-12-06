@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MODS GoGreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_title">About GoGreen</string>
+    <string name="about_us">\n\n\n\n\n Group 4 is a collection of 4 students in the FAU
+        ESP Program taking the 2014 Android Development
+class. The core members of the group are:\n\n
+Alec Handal - Designer \n
+Abhinav Komaravelli - Programmer\n
+Oluwapelumi Omole - Project Manager\n
+David Hernandez - Assistant Artist\n\n
+Special thanks to the following people for their kind assistance:\n
+\tTeacher:  Dr. Ravi Shankar\n
+  Teacher\'s assistants: Victor, Adrian, and John.\n
+  Below are some links from where we got some of our background images:\n
+  http://upload.wikimedia.org/wikipedia/commons/1/1a/Bachalpseeflowers.jpg\n
+  http://files.all-free-download.com/downloadfiles/wallpapers/1920_1200_widescreen/peaceful_lake_wallpaper_landscape_nature_wallpaper_1920_1200_widescreen_1208.jpg\n
+  </string>
+
+    <string name="fun_facts_contents"> 1. Recycling one aluminum can save enough energy to run a TV for three hours.\n\n
+2. We consume over 80 trillion aluminum cans every year.\n\n
+3. Each year, Americans throw away 25 trillion Styrofoam cups.\n\n
+4. During the time it takes you to read this sentence, 50,000 12-ounce aluminum cans are made.\n\n
+5. Every day, American businesses generate enough paper to circle the earth 20 times!\n\n
+6. Recycling a single run of the Sunday New York Times would save 75,000 trees.\n\n
+7. On average, ONE supermarket goes through 60,500,000 paper bags per year!\n\n
+8. The amount of wood and paper we throw away each year is enough to heat 50,000,000 homes for 20 years.\n\n
+9. Americans use 2,500,000 plastic bottles every hour, most of which are thrown away.\n\n
+10.A modern glass bottle takes 4000 years or more to decompose.\n\n
+11.About one-third of an average landfill is made up of packaging material.\n\n
+12.Rainforests are being cut down at the rate of 100 acres per minute.\n\n
+13.If you walk a mile along an average US highway, you will see, on average about 1,457 pieces of litter.\n\n
+14.An automatic dishwasher uses less hot water than doing dishes by hand by an average of six gallons less per cycle, or over 2,000 gallons per year.\n\n
+15.More than 20,000,000 Hershey\'s Kisses are wrapped each day, using 133 square miles of tinfoil. All that foil is recyclable.\n\n
+16.Plastic soda rings, \"baggies,\" styrofoam particles and plastic pellets are often mistaken by sea turtles as authentic food.\n\n
+17.Recycling just 48 cans is the energy equivalent of conserving one gallon of gas.\n\n
+18.One pound of newspaper can be recycled into 6 cereal boxes or egg cartons.\n\n
+19.Homeowners use up to 10 times more chemical pesticides per acre on their lawns than farmers use on crops.\n\n
+20.The more waste there is, the more pollution there is to handle, in the air, water, and the land.\n\n </string>
+
+    <string name="go_green"></string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_interactive_map">InteractiveMap</string>
+    <string name="title_activity_game">Game</string>
+    <string name="title_recycle">Recycle</string>
+    <string name="title_activity_fun_facts">FunFacts GoGreen</string>
+    <string name="title_activity_about_exhibit">AboutExhibit GoGreen</string>
+    <string name="go_green_main">Go Green Exhibit</string>
+    <string name="go_green_main_desc"> Harry the Heap, the recycling 
+        robot, knows and he’s 
+        excited to show you the importance of recycling, safe waste disposal, 
+        and making choices for a sustainable lifestyle. Climb in our garbage 
+        truck and explore with Harry as he guides visitors in learning what 
+        “going green” really means. Other exhibit areas will demonstrate sources 
+        of alternative energy, the science behind landfills, the value of composting, 
+        and the energy required to light our homes. Learn about your carbon 
+        footprint and your impact on the environment.\n\n\n</string>
+    <string name="harry_the_heap">Harry the Heap</string>
+    <string name="harry_the_heap_desc"> Harry, a fully-animated robot, spends his days rapping about recycling and encouraging visitors to Go Green!
+        This robot motivates people of all ages, especially children, to help the environment in any way, and there are a lot of ways.
+        This character was created to better educate people in an amusing and harmless way about all the hazards to the enviroment, and how one person
+        can \"go green\". This basically means the 3 R\'s, reduce, reuse, and recycle!\n\n\n</string>
+
+    <string name="about_exhibit_2">About Exhibit - 2</string>
+    <string name="about_exhibit_2_desc"> </string>
+    
+    <string name="about_exhibit_3">Making Choices</string>    
+    <string name="about_exhibit_3_desc">This image portrays how important recycling and \"going green\" is. It shows all the
+        different types of material and which may need to be recycled or diposed of properly. Basically, this will create pollution
+        and recycling, reusing, and reducing will definitely alleviate that!\n\n\n</string>
+    
+</resources>

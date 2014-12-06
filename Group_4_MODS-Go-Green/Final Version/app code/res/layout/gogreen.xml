@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/go_green_background">
+
+    <Button
+        android:id="@+id/funFacts"
+        android:layout_width="400dp"
+        android:layout_height="95dp"
+        android:layout_alignLeft="@+id/aboutExhibit"
+        android:layout_alignRight="@+id/aboutExhibit"
+        android:layout_below="@+id/aboutExhibit"
+        android:layout_marginTop="38dp"
+        android:background="#04B404"
+        android:textSize="40sp"
+        android:textColor="#FFFF00"
+        android:text="Fun Facts" />
+
+    <Button
+        android:id="@+id/aboutExhibit"
+        android:layout_width="400dp"
+        android:layout_height="95dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="196dp"
+        android:background="#088A08"
+        android:textColor="#FFFF00"
+        android:textSize="40sp" 
+        android:text="About Exhibit" />
+
+</RelativeLayout>
